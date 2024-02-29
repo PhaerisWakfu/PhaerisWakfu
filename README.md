@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 
-<a href="https://github.com/Xuenew/PyTopicsApiExplore">
+<a href="https://github.com/PhaerisWakfu/scindapsus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhaerisWakfu&repo=scindapsus&theme=buefy" />
 </a>
-<a href="https://github.com/Xuenew/Python_Spider_All">
+<a href="https://github.com/PhaerisWakfu/astrub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhaerisWakfu&repo=astrub&theme=buefy" />
+</a>
+<a href="https://github.com/PhaerisWakfu/bonta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhaerisWakfu&repo=bonta&theme=buefy" />
 </a>
