@@ -1,2 +1,2 @@
-✨顺其自然, 为所当为✨
+✨顺其自然，为所当为✨
 ![Wallpaper](https://phaeris-wallpaper.web.val.run)
